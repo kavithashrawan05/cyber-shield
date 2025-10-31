@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "2025-10-30T14:22:00",
+    "source_ip": "192.168.1.10",
+    "target": "api.server.com",
+    "alert_level": "High"
+  },
+  {
+    "timestamp": "2025-10-30T15:10:00",
+    "source_ip": "10.0.0.5",
+    "target": "login.portal.net",
+    "alert_level": "Medium"
+  }
+]
